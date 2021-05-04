@@ -1,0 +1,20 @@
+{
+  "name": "drag_generate_components",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.4",
+    "vue": "^2.6.11",
+    "vuedraggable": "^2.24.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.2.3",
+    "vite-plugin-vue2": "^1.4.4"
+  }
+}
